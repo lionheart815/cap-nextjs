@@ -10,7 +10,6 @@
 
 </p>
 
-[Curso de Next.js](https://platzi.com/cursos/next-2020/) dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
 
 * [Cómo trabajar en este proyecto?](#-cómo-trabajar-en-este-proyecto)
 * [Guía rápida](#-gu%C3%ADa-rápida)
