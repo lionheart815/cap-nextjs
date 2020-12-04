@@ -53,7 +53,7 @@ Empieza desde la etiqueta git correspondiente al módulo del curso.
     git checkout -b el-nombre-de-mi-branch etiqueta-elegida
 
     # Por ejemplo, para iniciar desde el módulo 4-javascript
-    git checkout -b jonalvarezz-javascript 4-javascript
+    git checkout -b john-javascript 4-javascript
     ```
 
     Eso es todo, ya puedes iniciar con todos los cambios incluídos hasta ese módulo. 
@@ -63,10 +63,10 @@ Empieza desde la etiqueta git correspondiente al módulo del curso.
 Git permite manejar varios repositorios remotos en una misma copia local. [Aquí encuentras más información](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes) y te dejaré el cheatsheet a continuación:
 ```sh
 # Crea tu nuevo repositorio en GitHub/GitLab/otro. 
-# Asumamos la URL es git@github.com:jonalvarezz/mi-repo-mas-bello.git
+# Asumamos la URL es git@github.com:john/mi-repo-mas-bello.git
 # Agrega el nuevo remote
 
-git remote add mi-repo git@github.com:jonalvarezz/mi-repo-mas-bello.git
+git remote add mi-repo git@github.com:john/mi-repo-mas-bello.git
 
 # Para push
 git push mi-repo branch-a-hacer-push
