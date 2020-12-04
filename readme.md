@@ -7,9 +7,7 @@
   Proyecto del Curso: Next.js
 </h1>
 <p align="center">
-  <a href="https://platzi-avo.vercel.app/" target="_blank">
-    https://platzi-avo.vercel.app/
-  </a>
+
 </p>
 
 [Curso de Next.js](https://platzi.com/cursos/next-2020/) dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
