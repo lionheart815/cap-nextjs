@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://platzi.com/cursos/next-2020/" target="_blank">
-    <img alt="Curso de Next.js" src="https://static.platzi.com/media/achievements/badge-nextjs-2259fc68-f86b-486e-bc09-95311a887985.png" width="60" />
+  <a href="#" target="_blank">
+    <img alt="Curso de Next.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" width="60" />
   </a>
 </p>
 <h1 align="center">
@@ -56,7 +56,7 @@ Empieza desde la etiqueta git correspondiente al módulo del curso.
     git checkout -b jonalvarezz-javascript 4-javascript
     ```
 
-    Eso es todo, ya puedes iniciar con todos los cambios incluídos hasta ese módulo. En la [sección Tags de GitHub](https://github.com/jonalvarezz/platzi-optimizacion-web/tags), encuentras más información de cada etiqueta.
+    Eso es todo, ya puedes iniciar con todos los cambios incluídos hasta ese módulo. 
     
 
 #### Bonus: Cómo subo mis cambios a otro repositorio?
@@ -111,7 +111,6 @@ git pull mi-repo branch-a-hacer-push
 
 ### 🐞 Encontraste un error o mejora?
 Ayuda a otros estudiantes con eso que acabas de descubrir que haría este curso y respositorio mucho mejor.
-* En [Issues](https://github.com/jonalvarezz/platzi-optimizacion-web/issues/new) puedes reportar errores, agregar sugerencias y comentarios.
-* Por su parte, los [Pull Request](https://github.com/jonalvarezz/platzi-optimizacion-web/pulls) siempre estarán abiertos para recibir mejoras puntuales.
+
 
 Happy hacking!
